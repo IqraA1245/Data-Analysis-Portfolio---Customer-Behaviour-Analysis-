@@ -2,7 +2,7 @@
 Industry level full analysis of customer behaviour using Excel, Python , SQL and Power BI
 
 
-Hi, I’m Iqra — an aspiring data analyst with a passion for uncovering stories hidden within data. I love turning raw numbers into insights that can actually guide smarter decisions.
+Hi, I’m Iqra. An aspiring data analyst with a passion for uncovering stories hidden within data. I love turning raw numbers into insights that can actually guide smarter decisions.
 
 This project, Customer Shopping Behaviour Analysis, was a great opportunity to explore how data can help businesses better understand their customers and improve marketing strategies. The idea was to take a real-world dataset of over 3,900 purchases and transform it into clear, actionable insights using tools like Python, SQL, and Power BI.
 
